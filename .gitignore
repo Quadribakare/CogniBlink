@@ -1,0 +1,4 @@
+face_landmarker.task
+__pycache__/
+*.pyc
+.env
